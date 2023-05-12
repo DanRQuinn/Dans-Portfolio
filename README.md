@@ -28,22 +28,22 @@ Finish time: 2:20
 Actual time needed to complete: 15 min
 
 
-Number and name of feature: ________________________________
+Number and name of feature: About-Me 
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 10 min
 
-Start time: _____
+Start time: 2 20
 
-Finish time: _____
+Finish time: 2 50
 
-Actual time needed to complete: _____
+Actual time needed to complete: 30
 
 
-Number and name of feature: ________________________________
+Number and name of feature: Projects
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 30 min
 
-Start time: _____
+Start time: 2 50
 
 Finish time: _____
 
