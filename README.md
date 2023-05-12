@@ -45,6 +45,16 @@ Estimate of time needed to complete: 30 min
 
 Start time: 2 50
 
-Finish time: _____
+Finish time: 3 20
 
-Actual time needed to complete: _____
+Actual time needed to complete: 30 min
+
+Number and name of feature: Skills
+
+Estimate of time needed to complete: 30 min
+
+Start time: 3 20
+
+Finish time: 3 20
+
+Actual time needed to complete: 30 min

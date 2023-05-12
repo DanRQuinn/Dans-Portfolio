@@ -95,37 +95,59 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Amazon Flex",
+        "title": "Delivery Driver",
+        "years": "7.2019 - 1.2023",
         "mainTech": [
-          "Angular 8/9/10"
+          
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "L and M Sheet Metal Fabricators",
+        "title": "Delivery Driver, Material Handler",
+        "years": "09.2022 - present",
         "mainTech": [
-          "Angular 7/8"
+          
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+         
+        ]
+      },
+      {
+        "company": "Jimmy Johns",
+        "title": "Delivery Biker/Manager",
+        "years": "07.2012 - 02.2022",
+        "mainTech": [
+          
+        ],
+        "technologies": [
+         
+        ]
+      },
+      {
+        "company": "Thomas Street Warehouse",
+        "title": " DJ",
+        "years": "06.2020 - 09.2022",
+        "mainTech": [
+          
+        ],
+        "technologies": [
+         
+        ]
+      },
+    
+      {
+        "company": "Zumiez",
+        "title": " Sales Associate",
+        "years": "06.2010 - 09.2012",
+        "mainTech": [
+          
+        ],
+        "technologies": [
+         
         ]
       }
     ]
