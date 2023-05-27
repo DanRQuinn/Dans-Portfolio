@@ -17,6 +17,7 @@ html {
 
 .title-container {
 	height: 50px;
+	color: #ccc;
 }
 
 .title-styles {
@@ -27,9 +28,12 @@ html {
 .header-icon {
 	height: 150px;
 	width: 150px;
+	color: #ccc;
 }
 
 header {
+	background-image: url("../public/images/_tk16157.JPG");
+	background-color: #cccccc;
 	position: relative;
 	height: 520px;
 	min-height: 450px;
@@ -38,7 +42,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #2f6781;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -77,7 +81,7 @@ header .nav {
 }
 
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: transparentize( #2f6781, 0.95);
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -86,27 +90,27 @@ header .nav {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #2f6781;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
 
 header h1 {
+	color: #ccc;
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #2f6781;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #2f6781;
 	height: 25px;
 }
 
@@ -120,7 +124,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background:  #2f6781;
 	overflow: hidden;
 }
 
@@ -139,7 +143,7 @@ header h1 {
 }
 
 .foto div {
-	background: #ffffff;
+	background: #204759;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -188,7 +192,7 @@ header h1 {
 }
 
 .polaroid span {
-	background: #ffffff;
+	background: #2f6781;
 	display: inline-block;
 	margin: 55px 75px 30px;
 	padding: 15px 15px 30px;
@@ -218,7 +222,7 @@ header h1 {
 
 #preview {
 	width: 500px;
-	background-color: #ebeaf5;
+	background-color:  #2f6781;
 	padding: 15px;
 	position: relative;
 	margin-bottom: 15%;
@@ -231,7 +235,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background:  #2f6781;
 }
 
 .experience-icon {
@@ -245,7 +249,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
+	background-color:  #2f6781 !important;
 	color: white;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -256,7 +260,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
+	background-color:  #2f6781 !important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -353,7 +357,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #4386a5;
 	padding-bottom: 5%;
 }
 
@@ -402,7 +406,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #fff;
+	color: #2f6781;
 	text-align: center;
 }
 
@@ -426,12 +430,12 @@ footer {
 
 footer a,
 footer a:visited {
-	color: #fff;
+	color: #2f6781;
 }
 
 footer a:hover,
 footer a:focus {
-	color: #fff;
+	color: #2f6781;
 }
 
 .social-links {
